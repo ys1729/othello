@@ -21,9 +21,13 @@
 
 .boards {
   border: 1px solid black;
+  display: flex;
+  align-items: center;
 }
 
 .pushbutton {
+  height: 90%;
+  width: 90%;
   background-color: rgb(255 25 0);
   color: rgb(218 234 101);
   border-radius: 50%;
