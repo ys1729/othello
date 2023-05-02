@@ -23,9 +23,9 @@
   border: 1px solid black;
 }
 
-.button {
+.pushbutton {
   background-color: rgb(255 25 0);
-  color: rgb(218, 234, 101);
+  color: rgb(218 234 101);
   border-radius: 50%;
   cursor: pointer;
 }

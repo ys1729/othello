@@ -6,35 +6,35 @@ const Home = () => {
       <div className={styles.board}>
         <div className={styles.boards} data-coord="1,1">
           11
-          <button />
+          <pushbutton />
         </div>
         <div className={styles.boards} data-coord="2,1">
           21
-          <button />
+          <pushbutton />
         </div>
         <div className={styles.boards} data-coord="3,1">
           31
-          <button />
+          <pushbutton />
         </div>
         <div className={styles.boards} data-coord="4,1">
           41
-          <button />
+          <pushbutton />
         </div>
         <div className={styles.boards} data-coord="5,1">
           51
-          <button />
+          <pushbutton />
         </div>
         <div className={styles.boards} data-coord="6,1">
           61
-          <button />
+          <pushbutton />
         </div>
         <div className={styles.boards} data-coord="7,1">
           71
-          <button />
+          <pushbutton />
         </div>
         <div className={styles.boards} data-coord="8,1">
           81
-          <button />
+          <pushbutton />
         </div>
         <div className={styles.boards} data-coord="1,2">
           12
@@ -211,7 +211,7 @@ const Home = () => {
 
 export default Home;
 
-function button() {
+function pushbutton() {
   const count = 1;
   return <span>まずはボタンから{count}</span>;
 }
