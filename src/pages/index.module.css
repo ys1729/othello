@@ -23,6 +23,13 @@
   border: 1px solid black;
 }
 
+.button {
+  background-color: rgb(255 25 0);
+  color: white;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
 .main {
   display: flex;
   flex: 1;
