@@ -6,6 +6,13 @@
   height: 100vh;
   min-height: 100vh;
   padding: 0 0.5rem;
+  background-color: #fff;
+}
+
+.board {
+  width: 640px;
+  height: 640px;
+  background-color: #269205;
 }
 
 .main {
