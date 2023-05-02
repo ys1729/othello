@@ -13,7 +13,6 @@
   display: grid;
   grid-template-columns: repeat(8, 1fr);
   grid-template-rows: repeat(8, 1fr);
-  gap: 1px;
   border: 1px solid black;
   width: 640px;
   height: 640px;
